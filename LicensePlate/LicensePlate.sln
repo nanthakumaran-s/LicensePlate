@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicensePlate", "LicensePlate.csproj", "{788DB841-24CA-4B27-80BA-336D7561D46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicensePlateTests", "..\LicensePlateTests\LicensePlateTests.csproj", "{499B9623-802A-4E03-AC53-BCE9435ED849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788DB841-24CA-4B27-80BA-336D7561D46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788DB841-24CA-4B27-80BA-336D7561D46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788DB841-24CA-4B27-80BA-336D7561D46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788DB841-24CA-4B27-80BA-336D7561D46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499B9623-802A-4E03-AC53-BCE9435ED849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499B9623-802A-4E03-AC53-BCE9435ED849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499B9623-802A-4E03-AC53-BCE9435ED849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499B9623-802A-4E03-AC53-BCE9435ED849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7837FC65-0A3F-48C0-A458-43B44C3C6137}
+	EndGlobalSection
+EndGlobal
